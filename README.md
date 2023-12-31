@@ -1,3 +1,3 @@
 # Song-Style-Transfer
 
-<img src="poster.jpg" width="800" alt="poster">
+<img src="poster.png" width="683" alt="poster">
