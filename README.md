@@ -1,3 +1,3 @@
 # Song-Style-Transfer
 
-[poster](poster.jpg)
+<img src="poster.jpg" width="699" alt="poster">
