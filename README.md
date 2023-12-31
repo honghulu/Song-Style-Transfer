@@ -1,3 +1,3 @@
 # Song-Style-Transfer
 
-[poster](AIBERT.pdf)
+[poster](poster.jpg)
